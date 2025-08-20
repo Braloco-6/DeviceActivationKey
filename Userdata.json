@@ -22,5 +22,11 @@
         "key": "Bryan233",
         "expirydate": "1-09-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "13bdb156f87d0248",
+        "key": "Eric123",
+        "expirydate": "20-09-2025",
+        "Allowoffline": true
     }
 ]
